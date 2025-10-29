@@ -1,0 +1,1471 @@
+COUNTRY,COLUMNA,PORCENTAJE_INVALIDOS,TOTAL_REGISTROS,CALIDAD_DATOS
+Venezuela,energy_cons_per_capita,100,123,Deficiente
+Venezuela,primary_energy_consumption,52.85,123,Deficiente
+Africa,population,0,123,Excelente
+Africa,gdp,100,123,Deficiente
+Africa,energy_per_capita,52.85,123,Deficiente
+Africa,energy_cons_per_capita,100,123,Deficiente
+Africa,primary_energy_consumption,52.85,123,Deficiente
+Belize,population,0,43,Excelente
+Belize,gdp,100,43,Deficiente
+Belize,energy_per_capita,2.33,43,Buena
+Belize,energy_cons_per_capita,100,43,Deficiente
+Belize,primary_energy_consumption,2.33,43,Buena
+Asia (Ember),population,100,24,Deficiente
+Asia (Ember),gdp,100,24,Deficiente
+Asia (Ember),energy_per_capita,100,24,Deficiente
+Asia (Ember),energy_cons_per_capita,100,24,Deficiente
+Asia (Ember),primary_energy_consumption,100,24,Deficiente
+Chile,population,0,124,Excelente
+Chile,gdp,.81,124,Buena
+Chile,energy_per_capita,53.23,124,Deficiente
+Chile,energy_cons_per_capita,100,124,Deficiente
+Chile,primary_energy_consumption,53.23,124,Deficiente
+Comoros,population,0,43,Excelente
+Comoros,gdp,0,43,Excelente
+Comoros,energy_per_capita,2.33,43,Buena
+Comoros,energy_cons_per_capita,100,43,Deficiente
+Comoros,primary_energy_consumption,2.33,43,Buena
+Cote d'Ivoire,population,0,123,Excelente
+Cote d'Ivoire,gdp,40.65,123,Deficiente
+Cote d'Ivoire,energy_per_capita,65.85,123,Deficiente
+Cote d'Ivoire,energy_cons_per_capita,100,123,Deficiente
+Cote d'Ivoire,primary_energy_consumption,65.85,123,Deficiente
+Cuba,population,0,123,Excelente
+Cuba,gdp,1.63,123,Buena
+Cuba,energy_per_capita,65.85,123,Deficiente
+Cuba,energy_cons_per_capita,100,123,Deficiente
+Cuba,primary_energy_consumption,65.85,123,Deficiente
+Denmark,population,0,124,Excelente
+Denmark,gdp,.81,124,Buena
+Denmark,energy_per_capita,53.23,124,Deficiente
+Denmark,energy_cons_per_capita,100,124,Deficiente
+Denmark,primary_energy_consumption,53.23,124,Deficiente
+Eastern Africa (EI),population,100,58,Deficiente
+Eastern Africa (EI),gdp,100,58,Deficiente
+Eastern Africa (EI),energy_per_capita,100,58,Deficiente
+Eastern Africa (EI),energy_cons_per_capita,100,58,Deficiente
+Eastern Africa (EI),primary_energy_consumption,0,58,Excelente
+Czechia,population,0,59,Excelente
+Czechia,gdp,10.17,59,Regular
+Czechia,energy_per_capita,1.69,59,Buena
+Czechia,energy_cons_per_capita,100,59,Deficiente
+Czechia,primary_energy_consumption,1.69,59,Buena
+France,population,0,124,Excelente
+France,gdp,.81,124,Buena
+France,energy_per_capita,53.23,124,Deficiente
+France,energy_cons_per_capita,100,124,Deficiente
+France,primary_energy_consumption,53.23,124,Deficiente
+Gambia,population,0,43,Excelente
+Gambia,gdp,0,43,Excelente
+Gambia,energy_per_capita,2.33,43,Buena
+Gambia,energy_cons_per_capita,100,43,Deficiente
+Gambia,primary_energy_consumption,2.33,43,Buena
+Germany,population,0,124,Excelente
+Germany,gdp,.81,124,Buena
+Germany,energy_per_capita,53.23,124,Deficiente
+Germany,energy_cons_per_capita,100,124,Deficiente
+Germany,primary_energy_consumption,53.23,124,Deficiente
+Ghana,population,0,123,Excelente
+Ghana,gdp,40.65,123,Deficiente
+Ghana,energy_per_capita,65.85,123,Deficiente
+Ghana,energy_cons_per_capita,100,123,Deficiente
+Ghana,primary_energy_consumption,65.85,123,Deficiente
+Europe (EI),population,100,58,Deficiente
+Europe (EI),gdp,100,58,Deficiente
+Europe (EI),energy_per_capita,100,58,Deficiente
+Europe (EI),energy_cons_per_capita,100,58,Deficiente
+Europe (EI),primary_energy_consumption,0,58,Excelente
+Greenland,population,36.59,123,Deficiente
+Greenland,gdp,100,123,Deficiente
+Greenland,energy_per_capita,65.85,123,Deficiente
+Greenland,energy_cons_per_capita,100,123,Deficiente
+Greenland,primary_energy_consumption,65.85,123,Deficiente
+Honduras,population,0,43,Excelente
+Honduras,gdp,0,43,Excelente
+Honduras,energy_per_capita,2.33,43,Buena
+Honduras,energy_cons_per_capita,100,43,Deficiente
+Honduras,primary_energy_consumption,2.33,43,Buena
+Hong Kong,population,0,58,Excelente
+Hong Kong,gdp,0,58,Excelente
+Hong Kong,energy_per_capita,0,58,Excelente
+Hong Kong,energy_cons_per_capita,100,58,Deficiente
+Hong Kong,primary_energy_consumption,0,58,Excelente
+Jamaica,population,0,43,Excelente
+Jamaica,gdp,0,43,Excelente
+Jamaica,energy_per_capita,2.33,43,Buena
+Jamaica,energy_cons_per_capita,100,43,Deficiente
+Jamaica,primary_energy_consumption,2.33,43,Buena
+Latvia,population,0,39,Excelente
+Latvia,gdp,2.56,39,Buena
+Latvia,energy_per_capita,2.56,39,Buena
+Latvia,energy_cons_per_capita,100,39,Deficiente
+Latvia,primary_energy_consumption,2.56,39,Buena
+Malawi,population,0,43,Excelente
+Malawi,gdp,0,43,Excelente
+Malawi,energy_per_capita,2.33,43,Buena
+Malawi,energy_cons_per_capita,100,43,Deficiente
+Malawi,primary_energy_consumption,2.33,43,Buena
+Mali,population,0,43,Excelente
+Mali,gdp,0,43,Excelente
+Mali,energy_per_capita,2.33,43,Buena
+Mali,energy_cons_per_capita,100,43,Deficiente
+Mali,primary_energy_consumption,2.33,43,Buena
+Northern Mariana Islands,population,0,42,Excelente
+Northern Mariana Islands,gdp,100,42,Deficiente
+Northern Mariana Islands,energy_per_capita,100,42,Deficiente
+Northern Mariana Islands,energy_cons_per_capita,100,42,Deficiente
+Northern Mariana Islands,primary_energy_consumption,100,42,Deficiente
+Niue,population,0,43,Excelente
+Niue,gdp,100,43,Deficiente
+Niue,energy_per_capita,2.33,43,Buena
+Niue,energy_cons_per_capita,100,43,Deficiente
+Niue,primary_energy_consumption,2.33,43,Buena
+Paraguay,population,0,44,Excelente
+Paraguay,gdp,2.27,44,Buena
+Paraguay,energy_per_capita,4.55,44,Buena
+Paraguay,energy_cons_per_capita,100,44,Deficiente
+Paraguay,primary_energy_consumption,4.55,44,Buena
+Peru,population,0,124,Excelente
+Peru,gdp,.81,124,Buena
+Peru,energy_per_capita,53.23,124,Deficiente
+Peru,energy_cons_per_capita,100,124,Deficiente
+Peru,primary_energy_consumption,53.23,124,Deficiente
+Portugal,population,0,124,Excelente
+Portugal,gdp,.81,124,Buena
+Portugal,energy_per_capita,53.23,124,Deficiente
+Portugal,energy_cons_per_capita,100,124,Deficiente
+Portugal,primary_energy_consumption,53.23,124,Deficiente
+Qatar,population,0,124,Excelente
+Qatar,gdp,41.13,124,Deficiente
+Qatar,energy_per_capita,53.23,124,Deficiente
+Qatar,energy_cons_per_capita,100,124,Deficiente
+Qatar,primary_energy_consumption,53.23,124,Deficiente
+Saint Helena,population,0,43,Excelente
+Saint Helena,gdp,100,43,Deficiente
+Saint Helena,energy_per_capita,2.33,43,Buena
+Saint Helena,energy_cons_per_capita,100,43,Deficiente
+Saint Helena,primary_energy_consumption,2.33,43,Buena
+Samoa,population,0,43,Excelente
+Samoa,gdp,100,43,Deficiente
+Samoa,energy_per_capita,2.33,43,Buena
+Samoa,energy_cons_per_capita,100,43,Deficiente
+Samoa,primary_energy_consumption,2.33,43,Buena
+Sierra Leone,population,0,43,Excelente
+Sierra Leone,gdp,0,43,Excelente
+Sierra Leone,energy_per_capita,2.33,43,Buena
+Asia,population,0,123,Excelente
+Asia,gdp,100,123,Deficiente
+Asia,energy_per_capita,52.85,123,Deficiente
+Asia,energy_cons_per_capita,100,123,Deficiente
+Asia,primary_energy_consumption,52.85,123,Deficiente
+Asia and Oceania (Shift),population,100,117,Deficiente
+Asia and Oceania (Shift),gdp,100,117,Deficiente
+Asia and Oceania (Shift),energy_per_capita,100,117,Deficiente
+Asia and Oceania (Shift),energy_cons_per_capita,100,117,Deficiente
+Asia and Oceania (Shift),primary_energy_consumption,100,117,Deficiente
+Austria,population,0,124,Excelente
+Austria,gdp,.81,124,Buena
+Austria,energy_per_capita,53.23,124,Deficiente
+Austria,energy_cons_per_capita,100,124,Deficiente
+Austria,primary_energy_consumption,53.23,124,Deficiente
+Bangladesh,population,0,124,Excelente
+Bangladesh,gdp,41.13,124,Deficiente
+Bangladesh,energy_per_capita,58.06,124,Deficiente
+Bangladesh,energy_cons_per_capita,100,124,Deficiente
+Bangladesh,primary_energy_consumption,58.06,124,Deficiente
+CIS (EI),population,100,58,Deficiente
+CIS (EI),gdp,100,58,Deficiente
+CIS (EI),energy_per_capita,100,58,Deficiente
+CIS (EI),energy_cons_per_capita,100,58,Deficiente
+CIS (EI),primary_energy_consumption,0,58,Excelente
+Central and South America (Shift),population,100,117,Deficiente
+Central and South America (Shift),gdp,100,117,Deficiente
+Central and South America (Shift),energy_per_capita,100,117,Deficiente
+Central and South America (Shift),energy_cons_per_capita,100,117,Deficiente
+Central and South America (Shift),primary_energy_consumption,100,117,Deficiente
+Finland,population,0,59,Excelente
+Finland,gdp,1.69,59,Buena
+Finland,energy_per_capita,1.69,59,Buena
+Finland,energy_cons_per_capita,100,59,Deficiente
+Finland,primary_energy_consumption,1.69,59,Buena
+G7 (Ember),population,100,24,Deficiente
+G7 (Ember),gdp,100,24,Deficiente
+G7 (Ember),energy_per_capita,100,24,Deficiente
+G7 (Ember),energy_cons_per_capita,100,24,Deficiente
+G7 (Ember),primary_energy_consumption,100,24,Deficiente
+Georgia,population,0,32,Excelente
+Georgia,gdp,3.13,32,Buena
+Georgia,energy_per_capita,6.25,32,Buena
+Georgia,energy_cons_per_capita,100,32,Deficiente
+Georgia,primary_energy_consumption,6.25,32,Buena
+Faroe Islands,population,0,43,Excelente
+Faroe Islands,gdp,100,43,Deficiente
+Faroe Islands,energy_per_capita,2.33,43,Buena
+Faroe Islands,energy_cons_per_capita,100,43,Deficiente
+Faroe Islands,primary_energy_consumption,2.33,43,Buena
+Europe,population,0,123,Excelente
+Europe,gdp,100,123,Deficiente
+Europe,energy_per_capita,52.85,123,Deficiente
+Europe,energy_cons_per_capita,100,123,Deficiente
+Europe,primary_energy_consumption,52.85,123,Deficiente
+Guinea,population,0,43,Excelente
+Guinea,gdp,0,43,Excelente
+Guinea,energy_per_capita,2.33,43,Buena
+Guinea,energy_cons_per_capita,100,43,Deficiente
+Guinea,primary_energy_consumption,2.33,43,Buena
+Haiti,population,0,43,Excelente
+Haiti,gdp,0,43,Excelente
+Haiti,energy_per_capita,2.33,43,Buena
+Haiti,energy_cons_per_capita,100,43,Deficiente
+Haiti,primary_energy_consumption,2.33,43,Buena
+Guam,population,0,43,Excelente
+Guam,gdp,100,43,Deficiente
+Guam,energy_per_capita,2.33,43,Buena
+Guam,energy_cons_per_capita,100,43,Deficiente
+Guam,primary_energy_consumption,2.33,43,Buena
+Indonesia,population,0,123,Excelente
+Indonesia,gdp,5.69,123,Buena
+Indonesia,energy_per_capita,52.85,123,Deficiente
+Indonesia,energy_cons_per_capita,100,123,Deficiente
+Indonesia,primary_energy_consumption,52.85,123,Deficiente
+Ireland,population,0,124,Excelente
+Ireland,gdp,16.94,124,Regular
+Ireland,energy_per_capita,53.23,124,Deficiente
+Ireland,energy_cons_per_capita,100,124,Deficiente
+Ireland,primary_energy_consumption,53.23,124,Deficiente
+Israel,population,0,123,Excelente
+Israel,gdp,40.65,123,Deficiente
+Israel,energy_per_capita,52.85,123,Deficiente
+Israel,energy_cons_per_capita,100,123,Deficiente
+Israel,primary_energy_consumption,52.85,123,Deficiente
+Lebanon,population,0,43,Excelente
+Lebanon,gdp,0,43,Excelente
+Lebanon,energy_per_capita,2.33,43,Buena
+Lebanon,energy_cons_per_capita,100,43,Deficiente
+Lebanon,primary_energy_consumption,2.33,43,Buena
+Lithuania,population,0,39,Excelente
+Lithuania,gdp,2.56,39,Buena
+Lithuania,energy_per_capita,2.56,39,Buena
+Lithuania,energy_cons_per_capita,100,39,Deficiente
+Lithuania,primary_energy_consumption,2.56,39,Buena
+Malta,population,0,44,Excelente
+Malta,gdp,2.27,44,Buena
+Malta,energy_per_capita,4.55,44,Buena
+Malta,energy_cons_per_capita,100,44,Deficiente
+Malta,primary_energy_consumption,4.55,44,Buena
+Liberia,population,0,43,Excelente
+Liberia,gdp,0,43,Excelente
+Liberia,energy_per_capita,2.33,43,Buena
+Liberia,energy_cons_per_capita,100,43,Deficiente
+Liberia,primary_energy_consumption,2.33,43,Buena
+Mozambique,population,0,123,Excelente
+Mozambique,gdp,40.65,123,Deficiente
+Mozambique,energy_per_capita,65.85,123,Deficiente
+Mozambique,energy_cons_per_capita,100,123,Deficiente
+Mozambique,primary_energy_consumption,65.85,123,Deficiente
+Myanmar,population,0,124,Excelente
+Myanmar,gdp,33.06,124,Deficiente
+Myanmar,energy_per_capita,66.13,124,Deficiente
+Myanmar,energy_cons_per_capita,100,124,Deficiente
+Myanmar,primary_energy_consumption,66.13,124,Deficiente
+Netherlands Antilles,population,75.44,57,Deficiente
+Netherlands Antilles,gdp,100,57,Deficiente
+Netherlands Antilles,energy_per_capita,77.19,57,Deficiente
+Netherlands Antilles,energy_cons_per_capita,100,57,Deficiente
+Netherlands Antilles,primary_energy_consumption,26.32,57,Regular
+Montserrat,population,0,43,Excelente
+Montserrat,gdp,100,43,Deficiente
+Montserrat,energy_per_capita,2.33,43,Buena
+Montserrat,energy_cons_per_capita,100,43,Deficiente
+Montserrat,primary_energy_consumption,2.33,43,Buena
+OECD (EI),population,100,58,Deficiente
+OECD (EI),gdp,100,58,Deficiente
+OECD (EI),energy_per_capita,100,58,Deficiente
+OECD (EI),energy_cons_per_capita,100,58,Deficiente
+OECD (EI),primary_energy_consumption,0,58,Excelente
+OECD (EIA),population,100,42,Deficiente
+OECD (EIA),gdp,100,42,Deficiente
+OECD (EIA),energy_per_capita,100,42,Deficiente
+OECD (EIA),energy_cons_per_capita,100,42,Deficiente
+OECD (EIA),primary_energy_consumption,0,42,Excelente
+Non-OECD (EIA),population,100,42,Deficiente
+Non-OECD (EIA),gdp,100,42,Deficiente
+Non-OECD (EIA),energy_per_capita,100,42,Deficiente
+Non-OECD (EIA),energy_cons_per_capita,100,42,Deficiente
+Non-OECD (EIA),primary_energy_consumption,0,42,Excelente
+Poland,population,0,124,Excelente
+Poland,gdp,28.23,124,Regular
+Poland,energy_per_capita,53.23,124,Deficiente
+Poland,energy_cons_per_capita,100,124,Deficiente
+Poland,primary_energy_consumption,53.23,124,Deficiente
+Papua New Guinea,population,0,43,Excelente
+Papua New Guinea,gdp,100,43,Deficiente
+Papua New Guinea,energy_per_capita,2.33,43,Buena
+Papua New Guinea,energy_cons_per_capita,100,43,Deficiente
+Papua New Guinea,primary_energy_consumption,2.33,43,Buena
+Sao Tome and Principe,population,0,43,Excelente
+Sao Tome and Principe,gdp,0,43,Excelente
+Sao Tome and Principe,energy_per_capita,2.33,43,Buena
+Sao Tome and Principe,energy_cons_per_capita,100,43,Deficiente
+Sao Tome and Principe,primary_energy_consumption,2.33,43,Buena
+Saudi Arabia,population,0,123,Excelente
+Saudi Arabia,gdp,39.84,123,Deficiente
+Saudi Arabia,energy_per_capita,52.85,123,Deficiente
+Saudi Arabia,energy_cons_per_capita,100,123,Deficiente
+Saudi Arabia,primary_energy_consumption,52.85,123,Deficiente
+Somalia,population,0,43,Excelente
+Somalia,gdp,100,43,Deficiente
+Somalia,energy_per_capita,2.33,43,Buena
+Somalia,energy_cons_per_capita,100,43,Deficiente
+Somalia,primary_energy_consumption,2.33,43,Buena
+Syria,population,0,123,Excelente
+Syria,gdp,39.84,123,Deficiente
+Syria,energy_per_capita,65.85,123,Deficiente
+Syria,energy_cons_per_capita,100,123,Deficiente
+Syria,primary_energy_consumption,65.85,123,Deficiente
+Thailand,population,0,124,Excelente
+Thailand,gdp,38.71,124,Deficiente
+Thailand,energy_per_capita,53.23,124,Deficiente
+Thailand,energy_cons_per_capita,100,124,Deficiente
+Thailand,primary_energy_consumption,53.23,124,Deficiente
+Tuvalu,population,0,42,Excelente
+Tuvalu,gdp,100,42,Deficiente
+Tuvalu,energy_per_capita,100,42,Deficiente
+Tuvalu,energy_cons_per_capita,100,42,Deficiente
+Tuvalu,primary_energy_consumption,100,42,Deficiente
+United States,population,0,124,Excelente
+United States,gdp,.81,124,Buena
+United States,energy_per_capita,53.23,124,Deficiente
+United States,energy_cons_per_capita,100,124,Deficiente
+United States,primary_energy_consumption,53.23,124,Deficiente
+Argentina,population,0,124,Excelente
+Argentina,gdp,.81,124,Buena
+Argentina,energy_per_capita,53.23,124,Deficiente
+Argentina,energy_cons_per_capita,100,124,Deficiente
+Argentina,primary_energy_consumption,53.23,124,Deficiente
+Africa (EIA),population,100,42,Deficiente
+Africa (EIA),gdp,100,42,Deficiente
+Africa (EIA),energy_per_capita,100,42,Deficiente
+Africa (EIA),energy_cons_per_capita,100,42,Deficiente
+Africa (EIA),primary_energy_consumption,0,42,Excelente
+Asia Pacific (EI),population,100,58,Deficiente
+Asia Pacific (EI),gdp,100,58,Deficiente
+Asia Pacific (EI),energy_per_capita,100,58,Deficiente
+Asia Pacific (EI),energy_cons_per_capita,100,58,Deficiente
+Asia Pacific (EI),primary_energy_consumption,0,58,Excelente
+Azerbaijan,population,0,43,Excelente
+Azerbaijan,gdp,0,43,Excelente
+Azerbaijan,energy_per_capita,11.63,43,Regular
+Azerbaijan,energy_cons_per_capita,100,43,Deficiente
+Azerbaijan,primary_energy_consumption,11.63,43,Regular
+British Virgin Islands,population,0,43,Excelente
+British Virgin Islands,gdp,100,43,Deficiente
+British Virgin Islands,energy_per_capita,2.33,43,Buena
+British Virgin Islands,energy_cons_per_capita,100,43,Deficiente
+British Virgin Islands,primary_energy_consumption,2.33,43,Buena
+Brazil,population,0,124,Excelente
+Brazil,gdp,.81,124,Buena
+Brazil,energy_per_capita,53.23,124,Deficiente
+Brazil,energy_cons_per_capita,100,124,Deficiente
+Brazil,primary_energy_consumption,53.23,124,Deficiente
+Bermuda,population,0,43,Excelente
+Bermuda,gdp,100,43,Deficiente
+Bermuda,energy_per_capita,2.33,43,Buena
+Bermuda,energy_cons_per_capita,100,43,Deficiente
+Bermuda,primary_energy_consumption,2.33,43,Buena
+Central & South America (EIA),population,100,42,Deficiente
+Central & South America (EIA),gdp,100,42,Deficiente
+Central & South America (EIA),energy_per_capita,100,42,Deficiente
+Central & South America (EIA),energy_cons_per_capita,100,42,Deficiente
+Central & South America (EIA),primary_energy_consumption,0,42,Excelente
+Costa Rica,population,0,44,Excelente
+Costa Rica,gdp,2.27,44,Buena
+Costa Rica,energy_per_capita,4.55,44,Buena
+Costa Rica,energy_cons_per_capita,100,44,Deficiente
+Costa Rica,primary_energy_consumption,4.55,44,Buena
+Croatia,population,0,34,Excelente
+Croatia,gdp,2.94,34,Buena
+Croatia,energy_per_capita,2.94,34,Buena
+Croatia,energy_cons_per_capita,100,34,Deficiente
+Croatia,primary_energy_consumption,2.94,34,Buena
+Democratic Republic of Congo,population,0,123,Excelente
+Democratic Republic of Congo,gdp,40.65,123,Deficiente
+Democratic Republic of Congo,energy_per_capita,65.85,123,Deficiente
+Democratic Republic of Congo,energy_cons_per_capita,100,123,Deficiente
+Democratic Republic of Congo,primary_energy_consumption,65.85,123,Deficiente
+Dominican Republic,population,0,43,Excelente
+Dominican Republic,gdp,0,43,Excelente
+Dominican Republic,energy_per_capita,2.33,43,Buena
+Dominican Republic,energy_cons_per_capita,100,43,Deficiente
+Dominican Republic,primary_energy_consumption,2.33,43,Buena
+Djibouti,population,0,43,Excelente
+Djibouti,gdp,0,43,Excelente
+Djibouti,energy_per_capita,2.33,43,Buena
+Djibouti,energy_cons_per_capita,100,43,Deficiente
+Djibouti,primary_energy_consumption,2.33,43,Buena
+Eurasia (Shift),population,100,117,Deficiente
+Eurasia (Shift),gdp,100,117,Deficiente
+Eurasia (Shift),energy_per_capita,100,117,Deficiente
+Eurasia (Shift),energy_cons_per_capita,100,117,Deficiente
+Eurasia (Shift),primary_energy_consumption,100,117,Deficiente
+Europe (EIA),population,100,42,Deficiente
+Europe (EIA),gdp,100,42,Deficiente
+Europe (EIA),energy_per_capita,100,42,Deficiente
+Europe (EIA),energy_cons_per_capita,100,42,Deficiente
+Europe (EIA),primary_energy_consumption,0,42,Excelente
+Fiji,population,0,43,Excelente
+Fiji,gdp,100,43,Deficiente
+Fiji,energy_per_capita,2.33,43,Buena
+Fiji,energy_cons_per_capita,100,43,Deficiente
+Fiji,primary_energy_consumption,2.33,43,Buena
+G20 (Ember),population,100,24,Deficiente
+G20 (Ember),gdp,100,24,Deficiente
+G20 (Ember),energy_per_capita,100,24,Deficiente
+G20 (Ember),energy_cons_per_capita,100,24,Deficiente
+G20 (Ember),primary_energy_consumption,100,24,Deficiente
+Guyana,population,0,43,Excelente
+Guyana,gdp,100,43,Deficiente
+Guyana,energy_per_capita,2.33,43,Buena
+Guyana,energy_cons_per_capita,100,43,Deficiente
+Guyana,primary_energy_consumption,2.33,43,Buena
+Kyrgyzstan,population,0,31,Excelente
+Kyrgyzstan,gdp,0,31,Excelente
+Kyrgyzstan,energy_per_capita,3.23,31,Buena
+Kyrgyzstan,energy_cons_per_capita,100,31,Deficiente
+Kyrgyzstan,primary_energy_consumption,3.23,31,Buena
+Libya,population,0,123,Excelente
+Libya,gdp,40.65,123,Deficiente
+Libya,energy_per_capita,65.85,123,Deficiente
+Libya,energy_cons_per_capita,100,123,Deficiente
+Libya,primary_energy_consumption,65.85,123,Deficiente
+Macao,population,0,43,Excelente
+Macao,gdp,100,43,Deficiente
+Macao,energy_per_capita,2.33,43,Buena
+Macao,energy_cons_per_capita,100,43,Deficiente
+Macao,primary_energy_consumption,2.33,43,Buena
+Malaysia,population,0,123,Excelente
+Malaysia,gdp,3.25,123,Buena
+Malaysia,energy_per_capita,52.85,123,Deficiente
+Malaysia,energy_cons_per_capita,100,123,Deficiente
+Malaysia,primary_energy_consumption,52.85,123,Deficiente
+Martinique,population,0,42,Excelente
+Martinique,gdp,100,42,Deficiente
+Martinique,energy_per_capita,19.05,42,Regular
+Martinique,energy_cons_per_capita,100,42,Deficiente
+Martinique,primary_energy_consumption,19.05,42,Regular
+Lesotho,population,0,43,Excelente
+Lesotho,gdp,0,43,Excelente
+Lesotho,energy_per_capita,2.33,43,Buena
+Lesotho,energy_cons_per_capita,100,43,Deficiente
+Lesotho,primary_energy_consumption,2.33,43,Buena
+Morocco,population,0,124,Excelente
+Morocco,gdp,40.32,124,Deficiente
+Morocco,energy_per_capita,53.23,124,Deficiente
+Morocco,energy_cons_per_capita,100,124,Deficiente
+Morocco,primary_energy_consumption,53.23,124,Deficiente
+Nepal,population,0,123,Excelente
+Nepal,gdp,39.84,123,Deficiente
+Nepal,energy_per_capita,65.85,123,Deficiente
+Nepal,energy_cons_per_capita,100,123,Deficiente
+Nepal,primary_energy_consumption,65.85,123,Deficiente
+Non-OPEC (EIA),population,100,42,Deficiente
+Non-OPEC (EIA),gdp,100,42,Deficiente
+Non-OPEC (EIA),energy_per_capita,100,42,Deficiente
+Non-OPEC (EIA),energy_cons_per_capita,100,42,Deficiente
+Non-OPEC (EIA),primary_energy_consumption,0,42,Excelente
+North America (Ember),population,100,24,Deficiente
+North America (Ember),gdp,100,24,Deficiente
+North America (Ember),energy_per_capita,100,24,Deficiente
+North America (Ember),energy_cons_per_capita,100,24,Deficiente
+North America (Ember),primary_energy_consumption,100,24,Deficiente
+North Macedonia,population,0,34,Excelente
+North Macedonia,gdp,2.94,34,Buena
+North Macedonia,energy_per_capita,2.94,34,Buena
+North Macedonia,energy_cons_per_capita,100,34,Deficiente
+North Macedonia,primary_energy_consumption,2.94,34,Buena
+Norway,population,0,124,Excelente
+Norway,gdp,.81,124,Buena
+Norway,energy_per_capita,53.23,124,Deficiente
+Norway,energy_cons_per_capita,100,124,Deficiente
+Norway,primary_energy_consumption,53.23,124,Deficiente
+OECD (Shift),population,100,117,Deficiente
+OECD (Shift),gdp,100,117,Deficiente
+OECD (Shift),energy_per_capita,100,117,Deficiente
+OECD (Shift),energy_cons_per_capita,100,117,Deficiente
+OECD (Shift),primary_energy_consumption,100,117,Deficiente
+OPEC (EIA),population,100,42,Deficiente
+OPEC (EIA),gdp,100,42,Deficiente
+OPEC (EIA),energy_per_capita,100,42,Deficiente
+OPEC (EIA),energy_cons_per_capita,100,42,Deficiente
+OPEC (EIA),primary_energy_consumption,0,42,Excelente
+Oman,population,0,124,Excelente
+Oman,gdp,41.13,124,Deficiente
+Oman,energy_per_capita,53.23,124,Deficiente
+Oman,energy_cons_per_capita,100,124,Deficiente
+Oman,primary_energy_consumption,53.23,124,Deficiente
+Reunion,population,0,42,Excelente
+Reunion,gdp,100,42,Deficiente
+Reunion,energy_per_capita,23.81,42,Regular
+Reunion,energy_cons_per_capita,100,42,Deficiente
+Reunion,primary_energy_consumption,23.81,42,Regular
+South Korea,population,0,124,Excelente
+South Korea,gdp,11.29,124,Regular
+South Korea,energy_per_capita,53.23,124,Deficiente
+South Korea,energy_cons_per_capita,100,124,Deficiente
+South Korea,primary_energy_consumption,53.23,124,Deficiente
+Western Africa (EI),population,100,58,Deficiente
+Western Africa (EI),gdp,100,58,Deficiente
+Western Africa (EI),energy_per_capita,100,58,Deficiente
+Western Africa (EI),energy_cons_per_capita,100,58,Deficiente
+Western Africa (EI),primary_energy_consumption,0,58,Excelente
+Africa (Shift),population,100,117,Deficiente
+Africa (Shift),gdp,100,117,Deficiente
+Africa (Shift),energy_per_capita,100,117,Deficiente
+Africa (Shift),energy_cons_per_capita,100,117,Deficiente
+Africa (Shift),primary_energy_consumption,100,117,Deficiente
+Algeria,population,0,123,Excelente
+Algeria,gdp,39.84,123,Deficiente
+Algeria,energy_per_capita,52.85,123,Deficiente
+Algeria,energy_cons_per_capita,100,123,Deficiente
+Algeria,primary_energy_consumption,52.85,123,Deficiente
+Africa (Ember),population,100,24,Deficiente
+Africa (Ember),gdp,100,24,Deficiente
+Africa (Ember),energy_per_capita,100,24,Deficiente
+Africa (Ember),energy_cons_per_capita,100,24,Deficiente
+Africa (Ember),primary_energy_consumption,100,24,Deficiente
+Barbados,population,0,123,Excelente
+Barbados,gdp,40.65,123,Deficiente
+Barbados,energy_per_capita,65.85,123,Deficiente
+Barbados,energy_cons_per_capita,100,123,Deficiente
+Barbados,primary_energy_consumption,65.85,123,Deficiente
+Botswana,population,0,123,Excelente
+Botswana,gdp,40.65,123,Deficiente
+Botswana,energy_per_capita,65.85,123,Deficiente
+Botswana,energy_cons_per_capita,100,123,Deficiente
+Botswana,primary_energy_consumption,65.85,123,Deficiente
+Bhutan,population,0,43,Excelente
+Bhutan,gdp,100,43,Deficiente
+Bhutan,energy_per_capita,2.33,43,Buena
+Bhutan,energy_cons_per_capita,100,43,Deficiente
+Bhutan,primary_energy_consumption,2.33,43,Buena
+Cape Verde,population,0,43,Excelente
+Cape Verde,gdp,0,43,Excelente
+Cape Verde,energy_per_capita,2.33,43,Buena
+Cape Verde,energy_cons_per_capita,100,43,Deficiente
+Cape Verde,primary_energy_consumption,2.33,43,Buena
+Curacao,population,0,11,Excelente
+Curacao,gdp,100,11,Deficiente
+Curacao,energy_per_capita,100,11,Deficiente
+Curacao,energy_cons_per_capita,100,11,Deficiente
+Curacao,primary_energy_consumption,100,11,Deficiente
+Dominica,population,0,43,Excelente
+Dominica,gdp,0,43,Excelente
+Dominica,energy_per_capita,2.33,43,Buena
+Dominica,energy_cons_per_capita,100,43,Deficiente
+Dominica,primary_energy_consumption,2.33,43,Buena
+Egypt,population,0,124,Excelente
+Egypt,gdp,40.32,124,Deficiente
+Egypt,energy_per_capita,53.23,124,Deficiente
+Egypt,energy_cons_per_capita,100,124,Deficiente
+Egypt,primary_energy_consumption,53.23,124,Deficiente
+Grenada,population,0,43,Excelente
+Grenada,gdp,100,43,Deficiente
+Grenada,energy_per_capita,2.33,43,Buena
+Grenada,energy_cons_per_capita,100,43,Deficiente
+Grenada,primary_energy_consumption,2.33,43,Buena
+Guadeloupe,population,0,42,Excelente
+Guadeloupe,gdp,100,42,Deficiente
+Guadeloupe,energy_per_capita,23.81,42,Regular
+Guadeloupe,energy_cons_per_capita,100,42,Deficiente
+Guadeloupe,primary_energy_consumption,23.81,42,Regular
+High-income countries,population,0,123,Excelente
+High-income countries,gdp,100,123,Deficiente
+High-income countries,energy_per_capita,52.85,123,Deficiente
+High-income countries,energy_cons_per_capita,100,123,Deficiente
+High-income countries,primary_energy_consumption,52.85,123,Deficiente
+Iceland,population,0,58,Excelente
+Iceland,gdp,0,58,Excelente
+Iceland,energy_per_capita,0,58,Excelente
+Iceland,energy_cons_per_capita,100,58,Deficiente
+Iceland,primary_energy_consumption,0,58,Excelente
+Guatemala,population,0,123,Excelente
+Guatemala,gdp,16.26,123,Regular
+Guatemala,energy_per_capita,65.85,123,Deficiente
+Guatemala,energy_cons_per_capita,100,123,Deficiente
+Guatemala,primary_energy_consumption,65.85,123,Deficiente
+Gibraltar,population,0,43,Excelente
+Gibraltar,gdp,100,43,Deficiente
+Gibraltar,energy_per_capita,100,43,Deficiente
+Gibraltar,energy_cons_per_capita,100,43,Deficiente
+Gibraltar,primary_energy_consumption,100,43,Deficiente
+Iran,population,0,124,Excelente
+Iran,gdp,40.32,124,Deficiente
+Iran,energy_per_capita,53.23,124,Deficiente
+Iran,energy_cons_per_capita,100,124,Deficiente
+Iran,primary_energy_consumption,53.23,124,Deficiente
+Iraq,population,0,123,Excelente
+Iraq,gdp,39.84,123,Deficiente
+Iraq,energy_per_capita,52.85,123,Deficiente
+Iraq,energy_cons_per_capita,100,123,Deficiente
+Iraq,primary_energy_consumption,52.85,123,Deficiente
+Italy,population,0,124,Excelente
+Italy,gdp,.81,124,Buena
+Italy,energy_per_capita,53.23,124,Deficiente
+Italy,energy_cons_per_capita,100,124,Deficiente
+Italy,primary_energy_consumption,53.23,124,Deficiente
+Japan,population,0,124,Excelente
+Japan,gdp,.81,124,Buena
+Japan,energy_per_capita,53.23,124,Deficiente
+Japan,energy_cons_per_capita,100,124,Deficiente
+Japan,primary_energy_consumption,53.23,124,Deficiente
+Lower-middle-income countries,population,0,123,Excelente
+Lower-middle-income countries,gdp,100,123,Deficiente
+Lower-middle-income countries,energy_per_capita,52.85,123,Deficiente
+Lower-middle-income countries,energy_cons_per_capita,100,123,Deficiente
+Lower-middle-income countries,primary_energy_consumption,52.85,123,Deficiente
+Luxembourg,population,0,59,Excelente
+Luxembourg,gdp,1.69,59,Buena
+Luxembourg,energy_per_capita,1.69,59,Buena
+Luxembourg,energy_cons_per_capita,100,59,Deficiente
+Luxembourg,primary_energy_consumption,1.69,59,Buena
+Micronesia (country),population,0,42,Excelente
+Micronesia (country),gdp,100,42,Deficiente
+Micronesia (country),energy_per_capita,47.62,42,Deficiente
+Micronesia (country),energy_cons_per_capita,100,42,Deficiente
+Micronesia (country),primary_energy_consumption,47.62,42,Deficiente
+Moldova,population,0,32,Excelente
+Moldova,gdp,3.13,32,Buena
+Moldova,energy_per_capita,6.25,32,Buena
+Moldova,energy_cons_per_capita,100,32,Deficiente
+Moldova,primary_energy_consumption,6.25,32,Buena
+Netherlands,population,0,124,Excelente
+Netherlands,gdp,.81,124,Buena
+Netherlands,energy_per_capita,53.23,124,Deficiente
+Netherlands,energy_cons_per_capita,100,124,Deficiente
+Netherlands,primary_energy_consumption,53.23,124,Deficiente
+North America (Shift),population,100,117,Deficiente
+North America (Shift),gdp,100,117,Deficiente
+North America (Shift),energy_per_capita,100,117,Deficiente
+North America (Shift),energy_cons_per_capita,100,117,Deficiente
+North America (Shift),primary_energy_consumption,100,117,Deficiente
+Oceania,population,0,123,Excelente
+Oceania,gdp,100,123,Deficiente
+Oceania,energy_per_capita,52.85,123,Deficiente
+Oceania,energy_cons_per_capita,100,123,Deficiente
+Oceania,primary_energy_consumption,52.85,123,Deficiente
+Romania,population,0,124,Excelente
+Romania,gdp,14.52,124,Regular
+Romania,energy_per_capita,53.23,124,Deficiente
+Romania,energy_cons_per_capita,100,124,Deficiente
+Romania,primary_energy_consumption,53.23,124,Deficiente
+Russia,population,0,39,Excelente
+Russia,gdp,2.56,39,Buena
+Russia,energy_per_capita,2.56,39,Buena
+Russia,energy_cons_per_capita,100,39,Deficiente
+Russia,primary_energy_consumption,2.56,39,Buena
+Singapore,population,0,59,Excelente
+Singapore,gdp,1.69,59,Buena
+Singapore,energy_per_capita,1.69,59,Buena
+Singapore,energy_cons_per_capita,100,59,Deficiente
+Singapore,primary_energy_consumption,1.69,59,Buena
+Slovenia,population,0,34,Excelente
+Slovenia,gdp,2.94,34,Buena
+Slovenia,energy_per_capita,2.94,34,Buena
+Slovenia,energy_cons_per_capita,100,34,Deficiente
+Slovenia,primary_energy_consumption,2.94,34,Buena
+Suriname,population,0,123,Excelente
+Suriname,gdp,100,123,Deficiente
+Suriname,energy_per_capita,65.85,123,Deficiente
+Suriname,energy_cons_per_capita,100,123,Deficiente
+Suriname,primary_energy_consumption,65.85,123,Deficiente
+Taiwan,population,0,124,Excelente
+Taiwan,gdp,8.87,124,Buena
+Taiwan,energy_per_capita,53.23,124,Deficiente
+Taiwan,energy_cons_per_capita,100,124,Deficiente
+Taiwan,primary_energy_consumption,53.23,124,Deficiente
+Tajikistan,population,0,31,Excelente
+Tajikistan,gdp,0,31,Excelente
+Tajikistan,energy_per_capita,3.23,31,Buena
+Tajikistan,energy_cons_per_capita,100,31,Deficiente
+Tajikistan,primary_energy_consumption,3.23,31,Buena
+Spain,population,0,124,Excelente
+Spain,gdp,.81,124,Buena
+Spain,energy_per_capita,53.23,124,Deficiente
+Spain,energy_cons_per_capita,100,124,Deficiente
+Spain,primary_energy_consumption,53.23,124,Deficiente
+Tonga,population,0,43,Excelente
+Tonga,gdp,100,43,Deficiente
+Tonga,energy_per_capita,2.33,43,Buena
+Tonga,energy_cons_per_capita,100,43,Deficiente
+Tonga,primary_energy_consumption,2.33,43,Buena
+Trinidad and Tobago,population,0,123,Excelente
+Trinidad and Tobago,gdp,40.65,123,Deficiente
+Trinidad and Tobago,energy_per_capita,52.85,123,Deficiente
+Trinidad and Tobago,energy_cons_per_capita,100,123,Deficiente
+Trinidad and Tobago,primary_energy_consumption,52.85,123,Deficiente
+Tunisia,population,0,124,Excelente
+Tunisia,gdp,40.32,124,Deficiente
+Tunisia,energy_per_capita,66.13,124,Deficiente
+Tunisia,energy_cons_per_capita,100,124,Deficiente
+Tunisia,primary_energy_consumption,66.13,124,Deficiente
+Turkmenistan,population,0,43,Excelente
+Turkmenistan,gdp,0,43,Excelente
+Turkmenistan,energy_per_capita,11.63,43,Regular
+Turkmenistan,energy_cons_per_capita,100,43,Deficiente
+Turkmenistan,primary_energy_consumption,11.63,43,Regular
+U.S. Pacific Islands (EIA),population,100,42,Deficiente
+U.S. Pacific Islands (EIA),gdp,100,42,Deficiente
+U.S. Pacific Islands (EIA),energy_per_capita,100,42,Deficiente
+U.S. Pacific Islands (EIA),energy_cons_per_capita,100,42,Deficiente
+U.S. Pacific Islands (EIA),primary_energy_consumption,4.76,42,Buena
+United States Virgin Islands,population,0,43,Excelente
+United States Virgin Islands,gdp,100,43,Deficiente
+United States Virgin Islands,energy_per_capita,2.33,43,Buena
+United States Virgin Islands,energy_cons_per_capita,100,43,Deficiente
+United States Virgin Islands,primary_energy_consumption,2.33,43,Buena
+Upper-middle-income countries,population,0,123,Excelente
+Upper-middle-income countries,gdp,100,123,Deficiente
+Upper-middle-income countries,energy_per_capita,52.85,123,Deficiente
+Upper-middle-income countries,energy_cons_per_capita,100,123,Deficiente
+Upper-middle-income countries,primary_energy_consumption,52.85,123,Deficiente
+Uzbekistan,population,0,43,Excelente
+Uzbekistan,gdp,0,43,Excelente
+Uzbekistan,energy_per_capita,11.63,43,Regular
+Uzbekistan,energy_cons_per_capita,100,43,Deficiente
+Uzbekistan,primary_energy_consumption,11.63,43,Regular
+Venezuela,population,0,123,Excelente
+Venezuela,gdp,0,123,Excelente
+Venezuela,energy_per_capita,52.85,123,Deficiente
+United Kingdom,population,0,124,Excelente
+United Kingdom,gdp,.81,124,Buena
+United Kingdom,energy_per_capita,53.23,124,Deficiente
+United Kingdom,energy_cons_per_capita,100,124,Deficiente
+United Kingdom,primary_energy_consumption,53.23,124,Deficiente
+United States Territories (Shift),population,100,37,Deficiente
+United States Territories (Shift),gdp,100,37,Deficiente
+United States Territories (Shift),energy_per_capita,100,37,Deficiente
+United States Territories (Shift),energy_cons_per_capita,100,37,Deficiente
+United States Territories (Shift),primary_energy_consumption,100,37,Deficiente
+Wake Island (EIA),population,100,42,Deficiente
+Wake Island (EIA),gdp,100,42,Deficiente
+Wake Island (EIA),energy_per_capita,100,42,Deficiente
+Wake Island (EIA),energy_cons_per_capita,100,42,Deficiente
+Wake Island (EIA),primary_energy_consumption,4.76,42,Buena
+Sierra Leone,energy_cons_per_capita,100,43,Deficiente
+Sierra Leone,primary_energy_consumption,2.33,43,Buena
+Solomon Islands,population,0,43,Excelente
+Solomon Islands,gdp,100,43,Deficiente
+Solomon Islands,energy_per_capita,2.33,43,Buena
+Solomon Islands,energy_cons_per_capita,100,43,Deficiente
+Solomon Islands,primary_energy_consumption,2.33,43,Buena
+Saint Lucia,population,0,43,Excelente
+Saint Lucia,gdp,0,43,Excelente
+Saint Lucia,energy_per_capita,2.33,43,Buena
+Saint Lucia,energy_cons_per_capita,100,43,Deficiente
+Saint Lucia,primary_energy_consumption,2.33,43,Buena
+South America,population,0,123,Excelente
+South America,gdp,100,123,Deficiente
+South America,energy_per_capita,52.85,123,Deficiente
+South America,energy_cons_per_capita,100,123,Deficiente
+South America,primary_energy_consumption,52.85,123,Deficiente
+Turks and Caicos Islands,population,0,43,Excelente
+Turks and Caicos Islands,gdp,100,43,Deficiente
+Turks and Caicos Islands,energy_per_capita,37.21,43,Deficiente
+Turks and Caicos Islands,energy_cons_per_capita,100,43,Deficiente
+Turks and Caicos Islands,primary_energy_consumption,37.21,43,Deficiente
+U.S. Territories (EIA),population,100,40,Deficiente
+U.S. Territories (EIA),gdp,100,40,Deficiente
+U.S. Territories (EIA),energy_per_capita,100,40,Deficiente
+U.S. Territories (EIA),energy_cons_per_capita,100,40,Deficiente
+U.S. Territories (EIA),primary_energy_consumption,100,40,Deficiente
+USSR,population,0,92,Excelente
+USSR,gdp,25,92,Regular
+USSR,energy_per_capita,70.65,92,Deficiente
+USSR,energy_cons_per_capita,100,92,Deficiente
+USSR,primary_energy_consumption,70.65,92,Deficiente
+Wake Island (Shift),population,100,37,Deficiente
+Wake Island (Shift),gdp,100,37,Deficiente
+Wake Island (Shift),energy_per_capita,100,37,Deficiente
+Wake Island (Shift),energy_cons_per_capita,100,37,Deficiente
+Wake Island (Shift),primary_energy_consumption,100,37,Deficiente
+West Germany,population,90.91,11,Deficiente
+West Germany,gdp,100,11,Deficiente
+West Germany,energy_per_capita,90.91,11,Deficiente
+West Germany,energy_cons_per_capita,100,11,Deficiente
+West Germany,primary_energy_consumption,0,11,Excelente
+Yemen,population,0,43,Excelente
+Yemen,gdp,0,43,Excelente
+Yemen,energy_per_capita,2.33,43,Buena
+Yemen,energy_cons_per_capita,100,43,Deficiente
+Yemen,primary_energy_consumption,2.33,43,Buena
+Yugoslavia,population,25,92,Regular
+Yugoslavia,gdp,26.09,92,Regular
+Yugoslavia,energy_per_capita,86.96,92,Deficiente
+Yugoslavia,energy_cons_per_capita,100,92,Deficiente
+Yugoslavia,primary_energy_consumption,86.96,92,Deficiente
+Angola,population,0,123,Excelente
+Angola,gdp,40.65,123,Deficiente
+Angola,energy_per_capita,65.85,123,Deficiente
+Angola,energy_cons_per_capita,100,123,Deficiente
+Angola,primary_energy_consumption,65.85,123,Deficiente
+Afghanistan,population,0,123,Excelente
+Afghanistan,gdp,40.65,123,Deficiente
+Afghanistan,energy_per_capita,65.85,123,Deficiente
+Afghanistan,energy_cons_per_capita,100,123,Deficiente
+Afghanistan,primary_energy_consumption,65.85,123,Deficiente
+Belarus,population,0,43,Excelente
+Belarus,gdp,0,43,Excelente
+Belarus,energy_per_capita,11.63,43,Regular
+Belarus,energy_cons_per_capita,100,43,Deficiente
+Belarus,primary_energy_consumption,11.63,43,Regular
+Australia and New Zealand (EIA),population,100,42,Deficiente
+Australia and New Zealand (EIA),gdp,100,42,Deficiente
+Australia and New Zealand (EIA),energy_per_capita,100,42,Deficiente
+Australia and New Zealand (EIA),energy_cons_per_capita,100,42,Deficiente
+Australia and New Zealand (EIA),primary_energy_consumption,0,42,Excelente
+Bolivia,population,0,124,Excelente
+Bolivia,gdp,.81,124,Buena
+Bolivia,energy_per_capita,66.13,124,Deficiente
+Bolivia,energy_cons_per_capita,100,124,Deficiente
+Bolivia,primary_energy_consumption,66.13,124,Deficiente
+Cayman Islands,population,0,43,Excelente
+Cayman Islands,gdp,100,43,Deficiente
+Cayman Islands,energy_per_capita,2.33,43,Buena
+Cayman Islands,energy_cons_per_capita,100,43,Deficiente
+Cayman Islands,primary_energy_consumption,2.33,43,Buena
+Chad,population,0,43,Excelente
+Chad,gdp,0,43,Excelente
+Chad,energy_per_capita,2.33,43,Buena
+Chad,energy_cons_per_capita,100,43,Deficiente
+Chad,primary_energy_consumption,2.33,43,Buena
+Cyprus,population,0,59,Excelente
+Cyprus,gdp,1.69,59,Buena
+Cyprus,energy_per_capita,1.69,59,Buena
+Cyprus,energy_cons_per_capita,100,59,Deficiente
+Cyprus,primary_energy_consumption,1.69,59,Buena
+EU28 (Shift),population,100,117,Deficiente
+EU28 (Shift),gdp,100,117,Deficiente
+EU28 (Shift),energy_per_capita,100,117,Deficiente
+EU28 (Shift),energy_cons_per_capita,100,117,Deficiente
+EU28 (Shift),primary_energy_consumption,100,117,Deficiente
+El Salvador,population,0,44,Excelente
+El Salvador,gdp,2.27,44,Buena
+El Salvador,energy_per_capita,4.55,44,Buena
+El Salvador,energy_cons_per_capita,100,44,Deficiente
+El Salvador,primary_energy_consumption,4.55,44,Buena
+Estonia,population,0,39,Excelente
+Estonia,gdp,2.56,39,Buena
+Estonia,energy_per_capita,2.56,39,Buena
+Estonia,energy_cons_per_capita,100,39,Deficiente
+Estonia,primary_energy_consumption,2.56,39,Buena
+Eswatini,population,0,123,Excelente
+Eswatini,gdp,40.65,123,Deficiente
+Eswatini,energy_per_capita,65.85,123,Deficiente
+Eswatini,energy_cons_per_capita,100,123,Deficiente
+Eswatini,primary_energy_consumption,65.85,123,Deficiente
+Ethiopia,population,0,43,Excelente
+Ethiopia,gdp,0,43,Excelente
+Ethiopia,energy_per_capita,2.33,43,Buena
+Ethiopia,energy_cons_per_capita,100,43,Deficiente
+Ethiopia,primary_energy_consumption,2.33,43,Buena
+Eurasia (EIA),population,100,42,Deficiente
+Eurasia (EIA),gdp,100,42,Deficiente
+Eurasia (EIA),energy_per_capita,100,42,Deficiente
+Eurasia (EIA),energy_cons_per_capita,100,42,Deficiente
+Eurasia (EIA),primary_energy_consumption,0,42,Excelente
+European Union (27),population,0,123,Excelente
+European Union (27),gdp,100,123,Deficiente
+European Union (27),energy_per_capita,52.85,123,Deficiente
+European Union (27),energy_cons_per_capita,100,123,Deficiente
+European Union (27),primary_energy_consumption,52.85,123,Deficiente
+French Guiana,population,0,42,Excelente
+French Guiana,gdp,100,42,Deficiente
+French Guiana,energy_per_capita,23.81,42,Regular
+French Guiana,energy_cons_per_capita,100,42,Deficiente
+French Guiana,primary_energy_consumption,23.81,42,Regular
+Kiribati,population,0,43,Excelente
+Kiribati,gdp,100,43,Deficiente
+Kiribati,energy_per_capita,2.33,43,Buena
+Kiribati,energy_cons_per_capita,100,43,Deficiente
+Kiribati,primary_energy_consumption,2.33,43,Buena
+Laos,population,0,43,Excelente
+Laos,gdp,0,43,Excelente
+Laos,energy_per_capita,2.33,43,Buena
+Laos,energy_cons_per_capita,100,43,Deficiente
+Laos,primary_energy_consumption,2.33,43,Buena
+Mexico,population,0,124,Excelente
+Mexico,gdp,.81,124,Buena
+Mexico,energy_per_capita,53.23,124,Deficiente
+Mexico,energy_cons_per_capita,100,124,Deficiente
+Mexico,primary_energy_consumption,53.23,124,Deficiente
+Middle Africa (EI),population,100,58,Deficiente
+Middle Africa (EI),gdp,100,58,Deficiente
+Middle Africa (EI),energy_per_capita,100,58,Deficiente
+Middle Africa (EI),energy_cons_per_capita,100,58,Deficiente
+Middle Africa (EI),primary_energy_consumption,0,58,Excelente
+New Caledonia,population,0,43,Excelente
+New Caledonia,gdp,100,43,Deficiente
+New Caledonia,energy_per_capita,2.33,43,Buena
+New Caledonia,energy_cons_per_capita,100,43,Deficiente
+New Caledonia,primary_energy_consumption,2.33,43,Buena
+Middle East (EIA),population,100,42,Deficiente
+Middle East (EIA),gdp,100,42,Deficiente
+Middle East (EIA),energy_per_capita,100,42,Deficiente
+Middle East (EIA),energy_cons_per_capita,100,42,Deficiente
+Middle East (EIA),primary_energy_consumption,0,42,Excelente
+Pakistan,population,0,124,Excelente
+Pakistan,gdp,41.13,124,Deficiente
+Pakistan,energy_per_capita,53.23,124,Deficiente
+Pakistan,energy_cons_per_capita,100,124,Deficiente
+Pakistan,primary_energy_consumption,53.23,124,Deficiente
+Puerto Rico,population,0,43,Excelente
+Puerto Rico,gdp,0,43,Excelente
+Puerto Rico,energy_per_capita,2.33,43,Buena
+Puerto Rico,energy_cons_per_capita,100,43,Deficiente
+Puerto Rico,primary_energy_consumption,2.33,43,Buena
+Rwanda,population,0,43,Excelente
+Rwanda,gdp,0,43,Excelente
+Rwanda,energy_per_capita,2.33,43,Buena
+Rwanda,energy_cons_per_capita,100,43,Deficiente
+Rwanda,primary_energy_consumption,2.33,43,Buena
+Serbia and Montenegro,population,0,14,Excelente
+Serbia and Montenegro,gdp,100,14,Deficiente
+Serbia and Montenegro,energy_per_capita,0,14,Excelente
+Serbia and Montenegro,energy_cons_per_capita,100,14,Deficiente
+Serbia and Montenegro,primary_energy_consumption,0,14,Excelente
+Slovakia,population,0,59,Excelente
+Slovakia,gdp,35.59,59,Deficiente
+Slovakia,energy_per_capita,1.69,59,Buena
+Slovakia,energy_cons_per_capita,100,59,Deficiente
+Slovakia,primary_energy_consumption,1.69,59,Buena
+South Africa,population,0,124,Excelente
+South Africa,gdp,41.13,124,Deficiente
+South Africa,energy_per_capita,53.23,124,Deficiente
+South Africa,energy_cons_per_capita,100,124,Deficiente
+South Africa,primary_energy_consumption,53.23,124,Deficiente
+Ukraine,population,0,118,Excelente
+Ukraine,gdp,66.95,118,Deficiente
+Ukraine,energy_per_capita,67.8,118,Deficiente
+Ukraine,energy_cons_per_capita,100,118,Deficiente
+Ukraine,primary_energy_consumption,67.8,118,Deficiente
+Vietnam,population,0,124,Excelente
+Vietnam,gdp,40.32,124,Deficiente
+Vietnam,energy_per_capita,53.23,124,Deficiente
+Vietnam,energy_cons_per_capita,100,124,Deficiente
+Vietnam,primary_energy_consumption,53.23,124,Deficiente
+Western Sahara,population,0,42,Excelente
+Western Sahara,gdp,100,42,Deficiente
+Western Sahara,energy_per_capita,0,42,Excelente
+Western Sahara,energy_cons_per_capita,100,42,Deficiente
+Western Sahara,primary_energy_consumption,0,42,Excelente
+Uruguay,population,0,44,Excelente
+Uruguay,gdp,2.27,44,Buena
+Uruguay,energy_per_capita,4.55,44,Buena
+Uruguay,energy_cons_per_capita,100,44,Deficiente
+Uruguay,primary_energy_consumption,4.55,44,Buena
+Zimbabwe,population,0,123,Excelente
+Zimbabwe,gdp,40.65,123,Deficiente
+Zimbabwe,energy_per_capita,65.85,123,Deficiente
+Zimbabwe,energy_cons_per_capita,100,123,Deficiente
+Zimbabwe,primary_energy_consumption,65.85,123,Deficiente
+American Samoa,population,0,43,Excelente
+American Samoa,gdp,100,43,Deficiente
+American Samoa,energy_per_capita,2.33,43,Buena
+American Samoa,energy_cons_per_capita,100,43,Deficiente
+American Samoa,primary_energy_consumption,2.33,43,Buena
+ASEAN (Ember),population,100,24,Deficiente
+ASEAN (Ember),gdp,100,24,Deficiente
+ASEAN (Ember),energy_per_capita,100,24,Deficiente
+ASEAN (Ember),energy_cons_per_capita,100,24,Deficiente
+ASEAN (Ember),primary_energy_consumption,100,24,Deficiente
+Africa (EI),population,100,58,Deficiente
+Africa (EI),gdp,100,58,Deficiente
+Africa (EI),energy_per_capita,100,58,Deficiente
+Africa (EI),energy_cons_per_capita,100,58,Deficiente
+Africa (EI),primary_energy_consumption,0,58,Excelente
+Australia,population,0,124,Excelente
+Australia,gdp,.81,124,Buena
+Australia,energy_per_capita,53.23,124,Deficiente
+Australia,energy_cons_per_capita,100,124,Deficiente
+Australia,primary_energy_consumption,53.23,124,Deficiente
+Asia & Oceania (EIA),population,100,42,Deficiente
+Asia & Oceania (EIA),gdp,100,42,Deficiente
+Asia & Oceania (EIA),energy_per_capita,100,42,Deficiente
+Asia & Oceania (EIA),energy_cons_per_capita,100,42,Deficiente
+Asia & Oceania (EIA),primary_energy_consumption,0,42,Excelente
+Bosnia and Herzegovina,population,0,32,Excelente
+Bosnia and Herzegovina,gdp,3.13,32,Buena
+Bosnia and Herzegovina,energy_per_capita,6.25,32,Buena
+Bosnia and Herzegovina,energy_cons_per_capita,100,32,Deficiente
+Bosnia and Herzegovina,primary_energy_consumption,6.25,32,Buena
+Bulgaria,population,0,124,Excelente
+Bulgaria,gdp,19.35,124,Regular
+Bulgaria,energy_per_capita,53.23,124,Deficiente
+Bulgaria,energy_cons_per_capita,100,124,Deficiente
+Bulgaria,primary_energy_consumption,53.23,124,Deficiente
+Burundi,population,0,123,Excelente
+Burundi,gdp,40.65,123,Deficiente
+Burundi,energy_per_capita,65.85,123,Deficiente
+Burundi,energy_cons_per_capita,100,123,Deficiente
+Burundi,primary_energy_consumption,65.85,123,Deficiente
+Cameroon,population,0,123,Excelente
+Cameroon,gdp,40.65,123,Deficiente
+Cameroon,energy_per_capita,65.85,123,Deficiente
+Cameroon,energy_cons_per_capita,100,123,Deficiente
+Cameroon,primary_energy_consumption,65.85,123,Deficiente
+Cook Islands,population,0,43,Excelente
+Cook Islands,gdp,100,43,Deficiente
+Cook Islands,energy_per_capita,2.33,43,Buena
+Cook Islands,energy_cons_per_capita,100,43,Deficiente
+Cook Islands,primary_energy_consumption,2.33,43,Buena
+East Germany,population,90.91,11,Deficiente
+East Germany,gdp,100,11,Deficiente
+East Germany,energy_per_capita,90.91,11,Deficiente
+East Germany,energy_cons_per_capita,100,11,Deficiente
+East Germany,primary_energy_consumption,0,11,Excelente
+East Timor,population,0,20,Excelente
+East Timor,gdp,100,20,Deficiente
+East Timor,energy_per_capita,5,20,Buena
+East Timor,energy_cons_per_capita,100,20,Deficiente
+East Timor,primary_energy_consumption,5,20,Buena
+Equatorial Guinea,population,0,43,Excelente
+Equatorial Guinea,gdp,0,43,Excelente
+Equatorial Guinea,energy_per_capita,2.33,43,Buena
+Equatorial Guinea,energy_cons_per_capita,100,43,Deficiente
+Equatorial Guinea,primary_energy_consumption,2.33,43,Buena
+Czechoslovakia,population,18.28,93,Regular
+Czechoslovakia,gdp,29.03,93,Regular
+Czechoslovakia,energy_per_capita,86.02,93,Deficiente
+Czechoslovakia,energy_cons_per_capita,100,93,Deficiente
+Czechoslovakia,primary_energy_consumption,86.02,93,Deficiente
+Europe (Ember),population,100,24,Deficiente
+Europe (Ember),gdp,100,24,Deficiente
+Europe (Ember),energy_per_capita,100,24,Deficiente
+Europe (Ember),energy_cons_per_capita,100,24,Deficiente
+Europe (Ember),primary_energy_consumption,100,24,Deficiente
+Europe (Shift),population,100,117,Deficiente
+Europe (Shift),gdp,100,117,Deficiente
+Europe (Shift),energy_per_capita,100,117,Deficiente
+Europe (Shift),energy_cons_per_capita,100,117,Deficiente
+Europe (Shift),primary_energy_consumption,100,117,Deficiente
+French Polynesia,population,0,43,Excelente
+French Polynesia,gdp,100,43,Deficiente
+French Polynesia,energy_per_capita,2.33,43,Buena
+French Polynesia,energy_cons_per_capita,100,43,Deficiente
+French Polynesia,primary_energy_consumption,2.33,43,Buena
+Falkland Islands,population,0,43,Excelente
+Falkland Islands,gdp,100,43,Deficiente
+Falkland Islands,energy_per_capita,2.33,43,Buena
+Falkland Islands,energy_cons_per_capita,100,43,Deficiente
+Falkland Islands,primary_energy_consumption,2.33,43,Buena
+Kuwait,population,0,124,Excelente
+Kuwait,gdp,41.13,124,Deficiente
+Kuwait,energy_per_capita,53.23,124,Deficiente
+Kuwait,energy_cons_per_capita,100,124,Deficiente
+Kuwait,primary_energy_consumption,53.23,124,Deficiente
+Latin America and Caribbean (Ember),population,100,24,Deficiente
+Latin America and Caribbean (Ember),gdp,100,24,Deficiente
+Latin America and Caribbean (Ember),energy_per_capita,100,24,Deficiente
+Latin America and Caribbean (Ember),energy_cons_per_capita,100,24,Deficiente
+Latin America and Caribbean (Ember),primary_energy_consumption,100,24,Deficiente
+Mauritania,population,0,43,Excelente
+Mauritania,gdp,0,43,Excelente
+Mauritania,energy_per_capita,2.33,43,Buena
+Mauritania,energy_cons_per_capita,100,43,Deficiente
+Mauritania,primary_energy_consumption,2.33,43,Buena
+Middle East (Shift),population,100,117,Deficiente
+Middle East (Shift),gdp,100,117,Deficiente
+Middle East (Shift),energy_per_capita,100,117,Deficiente
+Middle East (Shift),energy_cons_per_capita,100,117,Deficiente
+Middle East (Shift),primary_energy_consumption,100,117,Deficiente
+Namibia,population,0,33,Excelente
+Namibia,gdp,0,33,Excelente
+Namibia,energy_per_capita,3.03,33,Buena
+Namibia,energy_cons_per_capita,100,33,Deficiente
+Namibia,primary_energy_consumption,3.03,33,Buena
+New Zealand,population,0,124,Excelente
+New Zealand,gdp,.81,124,Buena
+New Zealand,energy_per_capita,53.23,124,Deficiente
+New Zealand,energy_cons_per_capita,100,124,Deficiente
+New Zealand,primary_energy_consumption,53.23,124,Deficiente
+Middle East (EI),population,100,58,Deficiente
+Middle East (EI),gdp,100,58,Deficiente
+Middle East (EI),energy_per_capita,100,58,Deficiente
+Middle East (EI),energy_cons_per_capita,100,58,Deficiente
+Middle East (EI),primary_energy_consumption,0,58,Excelente
+Middle East (Ember),population,100,24,Deficiente
+Middle East (Ember),gdp,100,24,Deficiente
+Middle East (Ember),energy_per_capita,100,24,Deficiente
+Middle East (Ember),energy_cons_per_capita,100,24,Deficiente
+Middle East (Ember),primary_energy_consumption,100,24,Deficiente
+OECD (Ember),population,100,24,Deficiente
+OECD (Ember),gdp,100,24,Deficiente
+OECD (Ember),energy_per_capita,100,24,Deficiente
+OECD (Ember),energy_cons_per_capita,100,24,Deficiente
+OECD (Ember),primary_energy_consumption,100,24,Deficiente
+South Sudan,population,0,43,Excelente
+South Sudan,gdp,100,43,Deficiente
+South Sudan,energy_per_capita,76.74,43,Deficiente
+South Sudan,energy_cons_per_capita,100,43,Deficiente
+South Sudan,primary_energy_consumption,76.74,43,Deficiente
+South and Central America (EI),population,100,58,Deficiente
+South and Central America (EI),gdp,100,58,Deficiente
+South and Central America (EI),energy_per_capita,100,58,Deficiente
+South and Central America (EI),energy_cons_per_capita,100,58,Deficiente
+South and Central America (EI),primary_energy_consumption,0,58,Excelente
+Tanzania,population,0,123,Excelente
+Tanzania,gdp,40.65,123,Deficiente
+Tanzania,energy_per_capita,65.85,123,Deficiente
+Tanzania,energy_cons_per_capita,100,123,Deficiente
+Tanzania,primary_energy_consumption,65.85,123,Deficiente
+United States Pacific Islands (Shift),population,100,37,Deficiente
+United States Pacific Islands (Shift),gdp,100,37,Deficiente
+United States Pacific Islands (Shift),energy_per_capita,100,37,Deficiente
+United States Pacific Islands (Shift),energy_cons_per_capita,100,37,Deficiente
+United States Pacific Islands (Shift),primary_energy_consumption,100,37,Deficiente
+Vanuatu,population,0,43,Excelente
+Vanuatu,gdp,100,43,Deficiente
+Vanuatu,energy_per_capita,2.33,43,Buena
+Vanuatu,energy_cons_per_capita,100,43,Deficiente
+Vanuatu,primary_energy_consumption,2.33,43,Buena
+World,population,0,124,Excelente
+World,gdp,85.48,124,Deficiente
+World,energy_per_capita,53.23,124,Deficiente
+World,energy_cons_per_capita,100,124,Deficiente
+World,primary_energy_consumption,53.23,124,Deficiente
+Albania,population,0,123,Excelente
+Albania,gdp,37.4,123,Deficiente
+Albania,energy_per_capita,65.85,123,Deficiente
+Albania,energy_cons_per_capita,100,123,Deficiente
+Albania,primary_energy_consumption,65.85,123,Deficiente
+Antigua and Barbuda,population,0,43,Excelente
+Antigua and Barbuda,gdp,100,43,Deficiente
+Antigua and Barbuda,energy_per_capita,2.33,43,Buena
+Antigua and Barbuda,energy_cons_per_capita,100,43,Deficiente
+Antigua and Barbuda,primary_energy_consumption,2.33,43,Buena
+Aruba,population,0,37,Excelente
+Aruba,gdp,100,37,Deficiente
+Aruba,energy_per_capita,2.7,37,Buena
+Aruba,energy_cons_per_capita,100,37,Deficiente
+Aruba,primary_energy_consumption,2.7,37,Buena
+Bahamas,population,0,43,Excelente
+Bahamas,gdp,100,43,Deficiente
+Bahamas,energy_per_capita,2.33,43,Buena
+Bahamas,energy_cons_per_capita,100,43,Deficiente
+Bahamas,primary_energy_consumption,2.33,43,Buena
+Belgium,population,0,124,Excelente
+Belgium,gdp,.81,124,Buena
+Belgium,energy_per_capita,53.23,124,Deficiente
+Belgium,energy_cons_per_capita,100,124,Deficiente
+Belgium,primary_energy_consumption,53.23,124,Deficiente
+Brunei,population,0,123,Excelente
+Brunei,gdp,100,123,Deficiente
+Brunei,energy_per_capita,65.85,123,Deficiente
+Brunei,energy_cons_per_capita,100,123,Deficiente
+Brunei,primary_energy_consumption,65.85,123,Deficiente
+Burkina Faso,population,0,43,Excelente
+Burkina Faso,gdp,0,43,Excelente
+Burkina Faso,energy_per_capita,2.33,43,Buena
+Burkina Faso,energy_cons_per_capita,100,43,Deficiente
+Burkina Faso,primary_energy_consumption,2.33,43,Buena
+Cambodia,population,0,43,Excelente
+Cambodia,gdp,0,43,Excelente
+Cambodia,energy_per_capita,2.33,43,Buena
+Cambodia,energy_cons_per_capita,100,43,Deficiente
+Cambodia,primary_energy_consumption,2.33,43,Buena
+Canada,population,0,124,Excelente
+Canada,gdp,.81,124,Buena
+Canada,energy_per_capita,53.23,124,Deficiente
+Canada,energy_cons_per_capita,100,124,Deficiente
+Canada,primary_energy_consumption,53.23,124,Deficiente
+Benin,population,0,43,Excelente
+Benin,gdp,0,43,Excelente
+Benin,energy_per_capita,2.33,43,Buena
+Benin,energy_cons_per_capita,100,43,Deficiente
+Benin,primary_energy_consumption,2.33,43,Buena
+China,population,0,124,Excelente
+China,gdp,30.65,124,Deficiente
+China,energy_per_capita,53.23,124,Deficiente
+China,energy_cons_per_capita,100,124,Deficiente
+China,primary_energy_consumption,53.23,124,Deficiente
+Congo,population,0,123,Excelente
+Congo,gdp,40.65,123,Deficiente
+Congo,energy_per_capita,65.85,123,Deficiente
+Congo,energy_cons_per_capita,100,123,Deficiente
+Congo,primary_energy_consumption,65.85,123,Deficiente
+Ecuador,population,0,124,Excelente
+Ecuador,gdp,.81,124,Buena
+Ecuador,energy_per_capita,53.23,124,Deficiente
+Ecuador,energy_cons_per_capita,100,124,Deficiente
+Ecuador,primary_energy_consumption,53.23,124,Deficiente
+Eritrea,population,0,29,Excelente
+Eritrea,gdp,100,29,Deficiente
+Eritrea,energy_per_capita,3.45,29,Buena
+Eritrea,energy_cons_per_capita,100,29,Deficiente
+Eritrea,primary_energy_consumption,3.45,29,Buena
+Guinea-Bissau,population,0,43,Excelente
+Guinea-Bissau,gdp,0,43,Excelente
+Guinea-Bissau,energy_per_capita,2.33,43,Buena
+Guinea-Bissau,energy_cons_per_capita,100,43,Deficiente
+Guinea-Bissau,primary_energy_consumption,2.33,43,Buena
+Jordan,population,0,43,Excelente
+Jordan,gdp,0,43,Excelente
+Jordan,energy_per_capita,2.33,43,Buena
+Jordan,energy_cons_per_capita,100,43,Deficiente
+Jordan,primary_energy_consumption,2.33,43,Buena
+Kenya,population,0,44,Excelente
+Kenya,gdp,2.27,44,Buena
+Kenya,energy_per_capita,4.55,44,Buena
+Kenya,energy_cons_per_capita,100,44,Deficiente
+Kenya,primary_energy_consumption,4.55,44,Buena
+Low-income countries,population,0,123,Excelente
+Low-income countries,gdp,100,123,Deficiente
+Low-income countries,energy_per_capita,65.85,123,Deficiente
+Low-income countries,energy_cons_per_capita,100,123,Deficiente
+Low-income countries,primary_energy_consumption,65.85,123,Deficiente
+Mauritius,population,0,43,Excelente
+Mauritius,gdp,0,43,Excelente
+Mauritius,energy_per_capita,2.33,43,Buena
+Mauritius,energy_cons_per_capita,100,43,Deficiente
+Mauritius,primary_energy_consumption,2.33,43,Buena
+Nauru,population,0,43,Excelente
+Nauru,gdp,100,43,Deficiente
+Nauru,energy_per_capita,2.33,43,Buena
+Nauru,energy_cons_per_capita,100,43,Deficiente
+Nauru,primary_energy_consumption,2.33,43,Buena
+Non-OECD (EI),population,100,58,Deficiente
+Non-OECD (EI),gdp,100,58,Deficiente
+Non-OECD (EI),energy_per_capita,100,58,Deficiente
+Non-OECD (EI),energy_cons_per_capita,100,58,Deficiente
+Non-OECD (EI),primary_energy_consumption,0,58,Excelente
+Nicaragua,population,0,43,Excelente
+Nicaragua,gdp,0,43,Excelente
+Nicaragua,energy_per_capita,2.33,43,Buena
+Nicaragua,energy_cons_per_capita,100,43,Deficiente
+Nicaragua,primary_energy_consumption,2.33,43,Buena
+OPEC (Shift),population,100,117,Deficiente
+OPEC (Shift),gdp,100,117,Deficiente
+OPEC (Shift),energy_per_capita,100,117,Deficiente
+OPEC (Shift),energy_cons_per_capita,100,117,Deficiente
+OPEC (Shift),primary_energy_consumption,100,117,Deficiente
+Persian Gulf (EIA),population,100,42,Deficiente
+Persian Gulf (EIA),gdp,100,42,Deficiente
+Persian Gulf (EIA),energy_per_capita,100,42,Deficiente
+Persian Gulf (EIA),energy_cons_per_capita,100,42,Deficiente
+Persian Gulf (EIA),primary_energy_consumption,0,42,Excelente
+Persian Gulf (Shift),population,100,117,Deficiente
+Persian Gulf (Shift),gdp,100,117,Deficiente
+Persian Gulf (Shift),energy_per_capita,100,117,Deficiente
+Persian Gulf (Shift),energy_cons_per_capita,100,117,Deficiente
+Persian Gulf (Shift),primary_energy_consumption,100,117,Deficiente
+Philippines,population,0,124,Excelente
+Philippines,gdp,6.45,124,Buena
+Philippines,energy_per_capita,53.23,124,Deficiente
+Philippines,energy_cons_per_capita,100,124,Deficiente
+Philippines,primary_energy_consumption,53.23,124,Deficiente
+Sweden,population,0,124,Excelente
+Sweden,gdp,.81,124,Buena
+Sweden,energy_per_capita,53.23,124,Deficiente
+Sweden,energy_cons_per_capita,100,124,Deficiente
+Sweden,primary_energy_consumption,53.23,124,Deficiente
+Zambia,population,0,123,Excelente
+Zambia,gdp,40.65,123,Deficiente
+Zambia,energy_per_capita,65.85,123,Deficiente
+Zambia,energy_cons_per_capita,100,123,Deficiente
+Zambia,primary_energy_consumption,65.85,123,Deficiente
+Antarctica,population,100,42,Deficiente
+Antarctica,gdp,100,42,Deficiente
+Antarctica,energy_per_capita,100,42,Deficiente
+Antarctica,energy_cons_per_capita,100,42,Deficiente
+Antarctica,primary_energy_consumption,0,42,Excelente
+Armenia,population,0,31,Excelente
+Armenia,gdp,0,31,Excelente
+Armenia,energy_per_capita,3.23,31,Buena
+Armenia,energy_cons_per_capita,100,31,Deficiente
+Armenia,primary_energy_consumption,3.23,31,Buena
+Bahrain,population,0,123,Excelente
+Bahrain,gdp,40.65,123,Deficiente
+Bahrain,energy_per_capita,65.85,123,Deficiente
+Bahrain,energy_cons_per_capita,100,123,Deficiente
+Bahrain,primary_energy_consumption,65.85,123,Deficiente
+Colombia,population,0,124,Excelente
+Colombia,gdp,.81,124,Buena
+Colombia,energy_per_capita,53.23,124,Deficiente
+Colombia,energy_cons_per_capita,100,124,Deficiente
+Colombia,primary_energy_consumption,53.23,124,Deficiente
+Central African Republic,population,0,43,Excelente
+Central African Republic,gdp,0,43,Excelente
+Central African Republic,energy_per_capita,2.33,43,Buena
+Central African Republic,energy_cons_per_capita,100,43,Deficiente
+Central African Republic,primary_energy_consumption,2.33,43,Buena
+Central America (EI),population,100,58,Deficiente
+Central America (EI),gdp,100,58,Deficiente
+Central America (EI),energy_per_capita,100,58,Deficiente
+Central America (EI),energy_cons_per_capita,100,58,Deficiente
+Central America (EI),primary_energy_consumption,0,58,Excelente
+Gabon,population,0,123,Excelente
+Gabon,gdp,40.65,123,Deficiente
+Gabon,energy_per_capita,65.85,123,Deficiente
+Gabon,energy_cons_per_capita,100,123,Deficiente
+Gabon,primary_energy_consumption,65.85,123,Deficiente
+Greece,population,0,124,Excelente
+Greece,gdp,.81,124,Buena
+Greece,energy_per_capita,53.23,124,Deficiente
+Greece,energy_cons_per_capita,100,124,Deficiente
+Greece,primary_energy_consumption,53.23,124,Deficiente
+Hungary,population,0,124,Excelente
+Hungary,gdp,19.35,124,Regular
+Hungary,energy_per_capita,53.23,124,Deficiente
+Hungary,energy_cons_per_capita,100,124,Deficiente
+Hungary,primary_energy_consumption,53.23,124,Deficiente
+India,population,0,124,Excelente
+India,gdp,.81,124,Buena
+India,energy_per_capita,53.23,124,Deficiente
+India,energy_cons_per_capita,100,124,Deficiente
+India,primary_energy_consumption,53.23,124,Deficiente
+Kazakhstan,population,0,39,Excelente
+Kazakhstan,gdp,2.56,39,Buena
+Kazakhstan,energy_per_capita,2.56,39,Buena
+Kazakhstan,energy_cons_per_capita,100,39,Deficiente
+Kazakhstan,primary_energy_consumption,2.56,39,Buena
+Kosovo,population,0,24,Excelente
+Kosovo,gdp,100,24,Deficiente
+Kosovo,energy_per_capita,41.67,24,Deficiente
+Kosovo,energy_cons_per_capita,100,24,Deficiente
+Kosovo,primary_energy_consumption,41.67,24,Deficiente
+Madagascar,population,0,123,Excelente
+Madagascar,gdp,40.65,123,Deficiente
+Madagascar,energy_per_capita,65.85,123,Deficiente
+Madagascar,energy_cons_per_capita,100,123,Deficiente
+Madagascar,primary_energy_consumption,65.85,123,Deficiente
+Maldives,population,0,43,Excelente
+Maldives,gdp,100,43,Deficiente
+Maldives,energy_per_capita,2.33,43,Buena
+Maldives,energy_cons_per_capita,100,43,Deficiente
+Maldives,primary_energy_consumption,2.33,43,Buena
+Mongolia,population,0,124,Excelente
+Mongolia,gdp,41.13,124,Deficiente
+Mongolia,energy_per_capita,66.13,124,Deficiente
+Mongolia,energy_cons_per_capita,100,124,Deficiente
+Mongolia,primary_energy_consumption,66.13,124,Deficiente
+Montenegro,population,0,24,Excelente
+Montenegro,gdp,4.17,24,Buena
+Montenegro,energy_per_capita,33.33,24,Deficiente
+Montenegro,energy_cons_per_capita,100,24,Deficiente
+Montenegro,primary_energy_consumption,33.33,24,Deficiente
+Niger,population,0,123,Excelente
+Niger,gdp,40.65,123,Deficiente
+Niger,energy_per_capita,65.85,123,Deficiente
+Niger,energy_cons_per_capita,100,123,Deficiente
+Niger,primary_energy_consumption,65.85,123,Deficiente
+Nigeria,population,0,124,Excelente
+Nigeria,gdp,41.13,124,Deficiente
+Nigeria,energy_per_capita,66.13,124,Deficiente
+Nigeria,energy_cons_per_capita,100,124,Deficiente
+Nigeria,primary_energy_consumption,66.13,124,Deficiente
+North America,population,0,123,Excelente
+North America,gdp,100,123,Deficiente
+North America,energy_per_capita,52.85,123,Deficiente
+North America,energy_cons_per_capita,100,123,Deficiente
+North America,primary_energy_consumption,52.85,123,Deficiente
+North America (EI),population,100,58,Deficiente
+North America (EI),gdp,100,58,Deficiente
+North America (EI),energy_per_capita,100,58,Deficiente
+North America (EI),energy_cons_per_capita,100,58,Deficiente
+North America (EI),primary_energy_consumption,0,58,Excelente
+North Korea,population,0,123,Excelente
+North Korea,gdp,72.36,123,Deficiente
+North Korea,energy_per_capita,65.85,123,Deficiente
+North Korea,energy_cons_per_capita,100,123,Deficiente
+North Korea,primary_energy_consumption,65.85,123,Deficiente
+Non-OPEC (EI),population,100,58,Deficiente
+Non-OPEC (EI),gdp,100,58,Deficiente
+Non-OPEC (EI),energy_per_capita,100,58,Deficiente
+Non-OPEC (EI),energy_cons_per_capita,100,58,Deficiente
+Non-OPEC (EI),primary_energy_consumption,100,58,Deficiente
+OPEC (EI),population,100,58,Deficiente
+OPEC (EI),gdp,100,58,Deficiente
+OPEC (EI),energy_per_capita,100,58,Deficiente
+OPEC (EI),energy_cons_per_capita,100,58,Deficiente
+OPEC (EI),primary_energy_consumption,100,58,Deficiente
+Palestine,population,0,26,Excelente
+Palestine,gdp,0,26,Excelente
+Palestine,energy_per_capita,3.85,26,Buena
+Palestine,energy_cons_per_capita,100,26,Deficiente
+Palestine,primary_energy_consumption,3.85,26,Buena
+Panama,population,0,43,Excelente
+Panama,gdp,0,43,Excelente
+Panama,energy_per_capita,2.33,43,Buena
+Panama,energy_cons_per_capita,100,43,Deficiente
+Panama,primary_energy_consumption,2.33,43,Buena
+Oceania (Ember),population,100,24,Deficiente
+Oceania (Ember),gdp,100,24,Deficiente
+Oceania (Ember),energy_per_capita,100,24,Deficiente
+Oceania (Ember),energy_cons_per_capita,100,24,Deficiente
+Oceania (Ember),primary_energy_consumption,100,24,Deficiente
+Saint Pierre and Miquelon,population,0,43,Excelente
+Saint Pierre and Miquelon,gdp,100,43,Deficiente
+Saint Pierre and Miquelon,energy_per_capita,2.33,43,Buena
+Saint Pierre and Miquelon,energy_cons_per_capita,100,43,Deficiente
+Saint Pierre and Miquelon,primary_energy_consumption,2.33,43,Buena
+Saint Vincent and the Grenadines,population,0,43,Excelente
+Saint Vincent and the Grenadines,gdp,100,43,Deficiente
+Saint Vincent and the Grenadines,energy_per_capita,2.33,43,Buena
+Saint Vincent and the Grenadines,energy_cons_per_capita,100,43,Deficiente
+Saint Vincent and the Grenadines,primary_energy_consumption,2.33,43,Buena
+Senegal,population,0,43,Excelente
+Senegal,gdp,0,43,Excelente
+Senegal,energy_per_capita,2.33,43,Buena
+Senegal,energy_cons_per_capita,100,43,Deficiente
+Senegal,primary_energy_consumption,2.33,43,Buena
+Serbia,population,0,34,Excelente
+Serbia,gdp,2.94,34,Buena
+Serbia,energy_per_capita,52.94,34,Deficiente
+Serbia,energy_cons_per_capita,100,34,Deficiente
+Serbia,primary_energy_consumption,52.94,34,Deficiente
+Seychelles,population,0,43,Excelente
+Seychelles,gdp,0,43,Excelente
+Seychelles,energy_per_capita,2.33,43,Buena
+Seychelles,energy_cons_per_capita,100,43,Deficiente
+Seychelles,primary_energy_consumption,2.33,43,Buena
+Saint Kitts and Nevis,population,0,43,Excelente
+Saint Kitts and Nevis,gdp,100,43,Deficiente
+Saint Kitts and Nevis,energy_per_capita,2.33,43,Buena
+Saint Kitts and Nevis,energy_cons_per_capita,100,43,Deficiente
+Saint Kitts and Nevis,primary_energy_consumption,2.33,43,Buena
+Sri Lanka,population,0,58,Excelente
+Sri Lanka,gdp,0,58,Excelente
+Sri Lanka,energy_per_capita,0,58,Excelente
+Sri Lanka,energy_cons_per_capita,100,58,Deficiente
+Sri Lanka,primary_energy_consumption,0,58,Excelente
+Sudan,population,0,43,Excelente
+Sudan,gdp,0,43,Excelente
+Sudan,energy_per_capita,2.33,43,Buena
+Sudan,energy_cons_per_capita,100,43,Deficiente
+Sudan,primary_energy_consumption,2.33,43,Buena
+Switzerland,population,0,124,Excelente
+Switzerland,gdp,.81,124,Buena
+Switzerland,energy_per_capita,53.23,124,Deficiente
+Switzerland,energy_cons_per_capita,100,124,Deficiente
+Switzerland,primary_energy_consumption,53.23,124,Deficiente
+Togo,population,0,43,Excelente
+Togo,gdp,0,43,Excelente
+Togo,energy_per_capita,2.33,43,Buena
+Togo,energy_cons_per_capita,100,43,Deficiente
+Togo,primary_energy_consumption,2.33,43,Buena
+Turkey,population,0,124,Excelente
+Turkey,gdp,18.55,124,Regular
+Turkey,energy_per_capita,53.23,124,Deficiente
+Turkey,energy_cons_per_capita,100,124,Deficiente
+Turkey,primary_energy_consumption,53.23,124,Deficiente
+Uganda,population,0,43,Excelente
+Uganda,gdp,0,43,Excelente
+Uganda,energy_per_capita,2.33,43,Buena
+Uganda,energy_cons_per_capita,100,43,Deficiente
+Uganda,primary_energy_consumption,2.33,43,Buena
+United Arab Emirates,population,0,123,Excelente
+United Arab Emirates,gdp,42.28,123,Deficiente
+United Arab Emirates,energy_per_capita,52.85,123,Deficiente
+United Arab Emirates,energy_cons_per_capita,100,123,Deficiente
+United Arab Emirates,primary_energy_consumption,52.85,123,Deficiente
